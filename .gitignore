@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gradle files
 .gradle/
 build/
@@ -32,12 +31,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
-=======
 # Compiled class file
 *.class
-
-# Log file
-*.log
 
 # BlueJ files
 *.ctxt
@@ -60,4 +55,3 @@ replay_pid*
 
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
->>>>>>> 4c4cd176d35bf17d5c3acc401f69267423365b64
