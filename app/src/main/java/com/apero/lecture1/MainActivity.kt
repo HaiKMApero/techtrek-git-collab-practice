@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             Lecture1Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+                    Text("Techtrek 3 - 1")
                     Greeting(
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
