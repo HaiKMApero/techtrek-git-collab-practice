@@ -20,11 +20,12 @@ class MainActivity : ComponentActivity() {
         setContent {
             Lecture1Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Text("Techtrek 3 - 1")
+                    Text("Techteck 3 - 3")
                     Greeting(
-                        name = "Android",
+                        name = "Android 1",
                         modifier = Modifier.padding(innerPadding)
                     )
+                    Text("Techteck 3 - 2")
                 }
             }
         }
